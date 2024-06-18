@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "249968615057",
+    "project_id": "phone-authentication-558cb",
+    "storage_bucket": "phone-authentication-558cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249968615057:android:f5dc117c6aa0bf2047e930",
+        "android_client_info": {
+          "package_name": "com.example.phone_authentication_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjaJEgdnusfmUCz9L2lHePX_sO5_cWcnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
